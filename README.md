@@ -9,7 +9,7 @@
 * Filtros dinámicos
 * Seguimiento de estados
 * Administración de datos
-### Demo
+### Website
 https://integrasocial.innobitsolutions.com.ar/
 
 ### Capturas
